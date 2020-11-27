@@ -53,6 +53,10 @@ googleAnalytics = ""
   name = "Contact Me"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "Sewa Motor"
+  url = "SewaMotor/"
+
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
