@@ -18,3 +18,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- exampleSite/content/sewa-motor-jogja.md
