@@ -55,7 +55,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
-  name = "Sewa-Motor"
+  name = "SewaMotor"
   url = "sewamotor/"
 
   [params.social]
