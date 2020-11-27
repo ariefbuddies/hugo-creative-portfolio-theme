@@ -2,6 +2,4 @@
 
 +++ Sewa Motor Jogja
 
-1
-2
-3
+texzx
