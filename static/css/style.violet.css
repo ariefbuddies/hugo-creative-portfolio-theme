@@ -330,8 +330,8 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-size: 20px;
-  text-transform: lowercase;
+  font-size: 26px;
+  text-transform: lettercase;
   letter-spacing: 0.1em;
 }
 .sidebar-heading a {
