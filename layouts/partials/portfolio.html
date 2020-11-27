@@ -1,8 +1,5 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
-    <div class="grid">
-        <div class="row">
-          {{ range .Data.Pages }}
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
@@ -95,6 +92,9 @@
   </script>
 </body>
 </html>
+    <div class="grid">
+        <div class="row">
+          {{ range .Data.Pages }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
