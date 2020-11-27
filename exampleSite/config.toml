@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "violet"
   description = "AriefBHug"
   copyright = "&copy;2021 AriefBHug"
   sidebarAbout = [
@@ -53,10 +53,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
-
-  [[params.navlinks]]
-  name = "SewaMotor"
-  url = "sewamotor/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
