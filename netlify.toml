@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "npm install slick-carousel && cd exampleSite && hugo --gc --themesDir ../.. --config config.toml"
+  command = "cd exampleSite && hugo --gc --themesDir ../.. --config config.toml"
 
 [build.environment]
   HUGO_VERSION = "0.78.2"
